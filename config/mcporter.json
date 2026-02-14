@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "sequential-thinking": {
+      "url": "https://open.bigmodel.cn/api/mcp-broker/proxy/sequential-thinking/sse",
+      "headers": {
+        "Authorization": "Bearer 5767413d4c9c4b4bbcf37fe71987a246.q8c587g9VUgjOxBN"
+      }
+    }
+  }
+}

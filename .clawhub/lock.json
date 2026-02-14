@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "translate": {
+      "version": "1.0.0",
+      "installedAt": 1771053024640
+    },
+    "multi-search-engine": {
+      "version": "2.0.1",
+      "installedAt": 1771053028496
+    },
+    "duckduckgo-search": {
+      "version": "1.0.0",
+      "installedAt": 1771053059173
+    },
+    "gcalcli-calendar": {
+      "version": "3.0.0",
+      "installedAt": 1771053119271
+    },
+    "browser-automation": {
+      "version": "1.0.1",
+      "installedAt": 1771054451511
+    },
+    "context-manager": {
+      "version": "1.0.3",
+      "installedAt": 1771056400867
+    }
+  }
+}
